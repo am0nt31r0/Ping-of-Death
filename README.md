@@ -10,7 +10,6 @@ Kali LXDE Linux
 # Before Running Install
 Install Scapy. Checkout this tutorial: https://scapy.readthedocs.io/en/latest/installation.html
 
-
 # Run
 Execute the script with super-user permissions.
 The script makes use of 'scapy' library which needs administration level to create network packets.
