@@ -1,4 +1,4 @@
-# Ping-of-Death
+# Ping-of-Death Maker
 Python script that uses the scapy library to create and send pings of death.
 
 # Description
