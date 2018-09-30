@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 from scapy.all import *
-import os
 
 # Change according with your IP addresses
 SOURCE_IP="10.0.1.1"
